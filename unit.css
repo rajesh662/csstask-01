@@ -1,0 +1,74 @@
+
+			h1{ text-align: center;
+				: 2px;
+			    }
+			.a{ font-size: 22px;
+				}
+		    .a1{ font-size: 10px;
+				}
+		    .a3{ font-size: 5em;
+				line-height: 2em;
+				}
+		      .b{ font-size: 15px;
+				}
+			.b2{ font-size: 2rem;
+				line-height: 3rem;
+				}
+			.c{ font-size: 4vh;
+				}
+			.c2{ font-size:3vh;
+				}
+			.d { font-size: 4vw;
+				}
+			.d2 { font-size: 3vw;
+				 }
+			.e { font-size: 20px;
+				}
+			.e2{ font-size: 150%;
+				}
+			.f1{ font-family: garamond,serif;
+				}
+			.f2{ font-family: helvatica,sans-serif;
+				}
+			.f3{ font-family: monaco,monospace;
+				}
+			.f4{ font-family: lucida handwriting,cursive;
+				}
+			.f5{ font-family: papyrus,fantasy;
+				}
+			.f6{ font-style: normal;
+				}
+			.f7{ font-style: italic;
+			
+				}
+			.f8{ font-style: oblique;
+				}
+			.w1{ font-weight: normal;
+				}
+			.w2{ font-weight: bold;
+				}
+			.v1{ font-variant: normal;
+				}
+			.v2{ font-variant: small-caps;
+				}
+			.g1{ font-family: 'Roboto Mono', monospace;
+				}
+			.g2{ font-family: 'Roboto Mono', monospace;
+				}
+			.g3	{ font-family: 'Roboto Mono', monospace;
+				}
+			.s	{ font: 15px/40px normal brush script mt,cursive;
+				}
+			#a  { font: 60px bold time new roman,serif;
+				}
+			.j1,.j2  { font-family: verdana,sans-serif;
+						color: blue;
+						}
+			.m  { border: double 20px black;
+				padding: 10px;
+				margin: 20px;
+				background-color: #FDEBD0;
+				}
+				
+				
+	
